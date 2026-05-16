@@ -146,25 +146,26 @@ This dashboard can be used for:
 
 ---
 
+
 # 🖼️ Dashboard Preview
 
 ## Overview Dashboard
-Screenshots/Screenshot 2026-05-17 043440.png
+![Overview Dashboard](Screenshots/Screenshot%202026-05-17%20043440.png)
+
 ---
 
 ## Conversion Details Dashboard
-![Conversion Dashboard](Screenshots\Screenshot 2026-05-17 043519.png)
+![Conversion Dashboard](Screenshots/Screenshot%202026-05-17%20043519.png)
 
 ---
 
 ## Social Media Details Dashboard
-![Social Media Dashboard](Screenshots\Screenshot 2026-05-17 043552.png)
+![Social Media Dashboard](Screenshots/Screenshot%202026-05-17%20043552.png)
 
 ---
 
 ## Customer Review Details Dashboard
-![Customer Review Dashboard](Screenshots\Screenshot 2026-05-17 043628.png)
-
+![Customer Review Dashboard](Screenshots/Screenshot%202026-05-17%20043628.png)
 ---
 
 # 📁 Dataset Information
