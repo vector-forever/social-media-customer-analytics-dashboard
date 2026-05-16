@@ -149,8 +149,7 @@ This dashboard can be used for:
 # 🖼️ Dashboard Preview
 
 ## Overview Dashboard
-![Overview Dashboard](Screenshots\Screenshot 2026-05-17 043440.png)
-
+Screenshots/Screenshot 2026-05-17 043440.png
 ---
 
 ## Conversion Details Dashboard
